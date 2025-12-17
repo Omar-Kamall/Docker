@@ -1,0 +1,4 @@
+Express.js + MongoDB + Docker 
+make a CRUD Operations using express app, connect with mongo and dockeriaze this app using docker commands 
+Dockerfile , docker-compose.yml 
+build image ,  run container , use volumes to fix hot reload.
