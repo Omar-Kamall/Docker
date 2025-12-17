@@ -1,0 +1,8 @@
+// build Image Command
+docker build -t backend .
+
+// run Container Command
+docker run -p 5000:5000 backend
+
+// Command On
+docker-compose up --build
